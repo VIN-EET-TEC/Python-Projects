@@ -8,7 +8,7 @@ entitles the owner of the stock to a proportion of the corporation's assets an
 
 An investor can buy a stock and sell it later. If the stock price increases, the investor profits, If it decreases,the investor with incur a loss. Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. People trade stocks throughout the day the stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges.
 
-In this project I'll be extracting stock data using a Python library. I'll use the yfinance library, it allows us to extract data for stocks returning data in a pandas dataframe.
+In this project I'll be extracting stock data using a Python library. I'll use the yfinance library, it allows me to extract data for stocks returning data in a pandas dataframe.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Using the ***Ticker*** module we can create an object that will allow us to acce
 
 ### Stock Info
 
-Using the attribute **info** we can extract information about the stock as a Python dictionary.
+Using the attribute **info** I had extracted information about the stock as a Python dictionary.
 
 ## Extracting Share Price
 
