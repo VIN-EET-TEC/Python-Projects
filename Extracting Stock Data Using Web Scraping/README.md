@@ -38,7 +38,7 @@ Parsing involves breaking down a piece of text or data into its individual compo
 
 These are the following tags which are used while creating HTML tables.
 
-- <table>: This tag is a root tag used to define the start and end of the table. All the content of the table is enclosed within these tags. 
+- &lt;table>: This tag is a root tag used to define the start and end of the table. All the content of the table is enclosed within these tags. 
 
 - <tr>: This tag is used to define a table row. Each row of the table is defined within this tag.
 
