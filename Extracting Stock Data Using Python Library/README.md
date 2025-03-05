@@ -1,5 +1,5 @@
 
-# Extracting Stock Data Using Web Scraping
+# Extracting Stock Data Using Python Library
 
 A company's stock share is a piece of the company more precisely:
 
