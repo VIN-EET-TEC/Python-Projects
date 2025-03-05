@@ -1,14 +1,14 @@
 
-# Extracting Stock Data Using Python Library
+# Extracting Stock Data Using Web Scraping
 
 A company's stock share is a piece of the company more precisely:
 
 **A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This
-entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares".**
+entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares".**
 
-An investor can buy a stock and sell it later. If the stock price increases, the investor profits, If it decreases,the investor with incur a loss.  Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. People trade stocks throughout the day the stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges.
+An investor can buy a stock and sell it later. If the stock price increases, the investor profits, If it decreases,the investor with incur a loss. Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. People trade stocks throughout the day the stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges.
 
-You are a data scientist working for a hedge fund; it's your job to determine any suspicious stock activity. In this lab you will extract stock data using a Python library. We will use the yfinance library, it allows us to extract data for stocks returning data in a pandas dataframe. You will use the lab to extract.
+In this project I'll be extracting stock data using a Python library. I'll use the yfinance library, it allows us to extract data for stocks returning data in a pandas dataframe.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ You are a data scientist working for a hedge fund; it's your job to determine an
 
 ## Using the yfinance Library to Extract Stock Data
 
-Using the ***Ticker*** module we can create an object that will allow us to access functions to extract data. To do this we need to provide the ticker symbol for the stock, here the company is Apple and the ticker symbol is ***AAPL***.
+Using the ***Ticker*** module we can create an object that will allow us to access functions to extract data. To do this we need to provide the ticker symbol for the stock, here the company is Apple & AMD and the ticker symbol is ***AAPL*** & ***AMD***.
 
 ### Stock Info
 
@@ -26,7 +26,7 @@ Using the attribute **info** we can extract information about the stock as a Pyt
 
 ## Extracting Share Price
 
-A share is the single smallest part of a company's stock  that you can buy, the prices of these shares fluctuate over time. Using the ***history()*** method we can get the share price of the stock over a certain period of time. Using the ***period*** parameter we can set how far back from the present to get data. The options for **period** are 1 day (1d), 5d, 1 month (1mo) , 3mo, 6mo, 1 year (1y), 2y, 5y, 10y, ytd, and max.
+A share is the single smallest part of a company's stock that we can buy, the prices of these shares fluctuate over time. Using the ***history()*** method we can get the share price of the stock over a certain period of time. Using the ***period*** parameter we can set how far back from the present to get data. The options for **period** are 1 day (1d), 5d, 1 month (1mo) , 3mo, 6mo, 1 year (1y), 2y, 5y, 10y, ytd, and max.
 
 ## Extracting Dividends
 
