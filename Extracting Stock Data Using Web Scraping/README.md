@@ -38,15 +38,15 @@ Parsing involves breaking down a piece of text or data into its individual compo
 
 These are the following tags which are used while creating HTML tables.
 
-- &lt;table>: This tag is a root tag used to define the start and end of the table. All the content of the table is enclosed within these tags. 
+- &lt;table&gt;: This tag is a root tag used to define the start and end of the table. All the content of the table is enclosed within these tags. 
 
-- <tr>: This tag is used to define a table row. Each row of the table is defined within this tag.
+- &lt;tr&gt;: This tag is used to define a table row. Each row of the table is defined within this tag.
 
-- <td>: This tag is used to define a table cell. Each cell of the table is defined within this tag. You can specify the content of the cell between the opening and closing <td> tags.
+- &lt;td&gt;: This tag is used to define a table cell. Each cell of the table is defined within this tag. You can specify the content of the cell between the opening and closing <td> tags.
 
-- <th>: This tag is used to define a header cell in the table. The header cell is used to describe the contents of a column or row. By default, the text inside a <th> tag is bold and centered.
+- &lt;th&gt;: This tag is used to define a header cell in the table. The header cell is used to describe the contents of a column or row. By default, the text inside a <th> tag is bold and centered.
 
-- <tbody>: This is the main content of the table, which is defined using the <tbody> tag. It contains one or more rows of <tr> elements.
+- &lt;tbody&gt;: This is the main content of the table, which is defined using the <tbody> tag. It contains one or more rows of <tr> elements.
 
 ## FAQ
 
