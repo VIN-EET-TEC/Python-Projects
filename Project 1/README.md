@@ -32,3 +32,7 @@ A share is the single smallest part of a company's stock  that you can buy, the 
 
 Dividends are the distribution of a companys profits to shareholders. In this case they are defined as an amount of money returned per share an investor owns. Using the variable **dividends** we can get a dataframe of the data. The period of the data is given by the period defined in the ***history()*** function.
 
+## Author
+- **Email**: vineetgupta798@gmail.com
+- **GitHub**: [VIN-EET-TEC](https://https://github.com/VIN-EET-TEC)
+- **LinkedIn**: [vineet-gupta-01b317231/](https://www.linkedin.com/in/vineet-gupta-01b317231/)
