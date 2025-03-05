@@ -53,7 +53,7 @@ These are the following tags which are used while creating HTML tables.
 **Question1:** What is the content of the title attribute?
 \
 **Question2:** What are the names of the columns in the data frame?
-**Question 3:** What is the *Open* of the last row of the amazon_data data frame?
+\**Question 3:** What is the *Open* of the last row of the amazon_data data frame?
 
 
 ## Author
