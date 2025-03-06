@@ -65,7 +65,7 @@ These are the following tags which are used while creating HTML tables.
 - **Visualization :** Clear and informative stock trend charts
 - **Usability :** Easy-to-use interactive data exploration
 
-## FAQ
+## Q&A
 
 **Question1:** What is the content of the title attribute?
 
