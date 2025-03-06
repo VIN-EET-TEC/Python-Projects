@@ -41,11 +41,8 @@ Dividends are the distribution of a companys profits to shareholders. In this ca
 ## Result & Impact
 
 - **Data Processing :** Efficient transformation and handling of stock data
-
 - **Data Retrieval :** Real-time and historical stock data availability
-
 - **Visualization :** Clear and informative stock trend charts
-
 - **Usability :** Easy-to-use interactive data exploration
 
 ## Author
