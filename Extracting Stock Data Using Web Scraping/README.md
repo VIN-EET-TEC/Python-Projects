@@ -12,13 +12,9 @@ This repository contains a Jupyter Notebook that demonstrates how to extract sto
 ## Tools & Techniques
 
 - **BeautifulSoup :** Web scraping and parsing HTML
-
 - **Requests :** Sending HTTP requests to fetch webpage data
-
 - **Pandas :** Data manipulation and analysis
-
 - **Matplotlib :** Data visualization
-
 - **Jupyter Notebook :** Interactive code execution
 
 ## Table of Contents
@@ -65,19 +61,14 @@ These are the following tags which are used while creating HTML tables.
 ## Result & Impact
 
 - **Data Collection :** Real-time extraction of stock data from web sources
-
 - **Data Processing :** Efficient transformation and cleaning of scraped data
-
 - **Visualization :** Clear and informative stock trend charts
-
 - **Usability :** Easy-to-use interactive data exploration
 
 ## FAQ
 
 **Question1:** What is the content of the title attribute?
-
 **Question2:** What are the names of the columns in the data frame?
-
 **Question 3:** What is the **Open** of the last row of the amazon_data data frame?
 
 
