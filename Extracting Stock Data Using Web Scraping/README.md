@@ -1,8 +1,25 @@
-
 # Extracting Stock Data Using Web Scraping
 
-In this project I used web-scraping to obtain financial data.  
-I've extracted and shared historical data from a web page using the BeautifulSoup library.
+This repository contains a Jupyter Notebook that demonstrates how to extract stock market data using web scraping techniques. The notebook scrapes stock data from financial websites and processes it for analysis.
+
+## Features
+
+- Scrape real-time stock data from financial websites
+- Process and clean scraped data
+- Visualize stock market trends using Python libraries
+- Includes details on tools, techniques, and their impact
+
+## Tools & Techniques
+
+- **BeautifulSoup :** Web scraping and parsing HTML
+
+- **Requests :** Sending HTTP requests to fetch webpage data
+
+- **Pandas :** Data manipulation and analysis
+
+- **Matplotlib :** Data visualization
+
+- **Jupyter Notebook :** Interactive code execution
 
 ## Table of Contents
 
@@ -19,14 +36,11 @@ I had extracted Netflix stock data [https://cf-courses-data.s3.us.cloud-object-s
 
 Using the **requests** library to download the webpage [https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/amazon_data_webpage.html](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/amazon_data_webpage.html). Saving the text of the response as a variable named **html_data**.
 
-
-In this project, I used yahoo finance website to extract Netflix & Amazon data.
-
 ### Steps for extracting the data
 1. Send an HTTP request to the web page using the requests library.
-2. Parse the HTML content of the web page using *BeautifulSoup*.
+2. Parse the HTML content of the web page using BeautifulSoup.
 3. Identify the HTML tags that contain the data you want to extract.
-4. Use *BeautifulSoup* methods to extract the data from the HTML tags.
+4. Use BeautifulSoup methods to extract the data from the HTML tags.
 5. Print the extracted data
 
 ### What is parsing?
@@ -54,11 +68,10 @@ These are the following tags which are used while creating HTML tables.
 
 **Question2:** What are the names of the columns in the data frame?
 
-**Question 3:** What is the *Open* of the last row of the amazon_data data frame?
+**Question 3:** What is the **Open** of the last row of the amazon_data data frame?
 
 
 ## Author
 - **Email**: vineetgupta798@gmail.com
 - **LinkedIn**: [vineet-gupta-01b317231](https://www.linkedin.com/in/vineet-gupta-01b317231/)
-
 
