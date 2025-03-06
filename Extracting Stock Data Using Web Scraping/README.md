@@ -62,6 +62,16 @@ These are the following tags which are used while creating HTML tables.
 
 - &lt;tbody&gt;: This is the main content of the table, which is defined using the <tbody> tag. It contains one or more rows of <tr> elements.
 
+## Result & Impact
+
+- **Data Collection :** Real-time extraction of stock data from web sources
+
+- **Data Processing :** Efficient transformation and cleaning of scraped data
+
+- **Visualization :** Clear and informative stock trend charts
+
+- **Usability :** Easy-to-use interactive data exploration
+
 ## FAQ
 
 **Question1:** What is the content of the title attribute?
