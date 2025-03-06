@@ -46,11 +46,8 @@ This repository contains a Jupyter Notebook that analyzes housing sales data in 
 ## Result & Impact
 
 - **Data Cleaning :** Improved dataset quality for accurate analysis
-
 - **EDA :** Identification of trends and patterns in housing sales
-
 - **Visualization :** Clear and insightful charts for better understanding
-
 - **Predictive Modeling :** Potential for price prediction based on features
 
 ### Dataset
