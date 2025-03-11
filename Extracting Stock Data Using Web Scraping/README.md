@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that demonstrates how to extract stock market data using web scraping techniques. The notebook scrapes stock data from financial websites and processes it for analysis.
 
-## Features
+## Objective
 
 - Scrape real-time stock data from financial websites
 - Process and clean scraped data
