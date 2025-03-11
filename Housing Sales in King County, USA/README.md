@@ -4,7 +4,7 @@
 
 This repository contains a Jupyter Notebook that analyzes housing sales data in King County, USA. The dataset includes various attributes of houses sold in the region, such as price, number of bedrooms, number of bathrooms, square footage, and more. The analysis provides insights into housing trends and factors affecting property prices.
  
-## Features
+## Objective
 
 - Importing Data
 - Data Wrangling
