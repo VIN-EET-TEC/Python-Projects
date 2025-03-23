@@ -18,11 +18,11 @@
 
 ## Extracting Stock Data Using Python Library
 
-### Result
-- **Data Processing :** Efficient transformation and handling of stock data
-- **Data Retrieval :** Real-time and historical stock data availability
-- **Visualization :** Clear and informative stock trend charts
-- **Usability :** Easy-to-use interactive data exploration
+### Objective
+- Fetch historical stock data
+- Process and visualize stock market trends
+- Utilize Python libraries such as pandas, yfinance, and matplotlib
+- Includes details on tools, techniques, and their impact
 
 ## Author
 - **Email**: vineetgupta798@gmail.com
