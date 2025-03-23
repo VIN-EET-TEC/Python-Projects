@@ -18,7 +18,7 @@
 
 ## Extracting Stock Data Using Python Library
 
-### Result & Impact
+### Result
 - **Data Processing :** Efficient transformation and handling of stock data
 - **Data Retrieval :** Real-time and historical stock data availability
 - **Visualization :** Clear and informative stock trend charts
