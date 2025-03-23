@@ -16,6 +16,14 @@
 - **Visualization :** Clear and informative stock trend charts
 - **Usability :** Easy-to-use interactive data exploration
 
+## Extracting Stock Data Using Python Library
+
+### Result & Impact
+- **Data Processing :** Efficient transformation and handling of stock data
+- **Data Retrieval :** Real-time and historical stock data availability
+- **Visualization :** Clear and informative stock trend charts
+- **Usability :** Easy-to-use interactive data exploration
+
 ## Author
 - **Email**: vineetgupta798@gmail.com
 - **LinkedIn**: [vineet-gupta-01b317231](https://www.linkedin.com/in/vineet-gupta-01b317231/)
